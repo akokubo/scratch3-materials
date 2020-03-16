@@ -21,7 +21,7 @@
 ### Makey Makeyで楽器を作る
 * [1.Makey Makeyを使ってキーボードをハックしよう！](https://github.com/akokubo/scratch3-materials/raw/master/scratch3-makey-makey-01.pptx)
 * [2.Makey Makeyを使って楽器を作ろう！](https://github.com/akokubo/scratch3-materials/raw/master/scratch3-makey-makey-02.pptx)
-* [3.紙をピアノにしてみよう！](https://github.com/akokubo/scratch3-materials/raw/master/scratch3-makey3-makey-03.pptx)
+* [3.紙をピアノにしてみよう！](https://github.com/akokubo/scratch3-materials/raw/master/scratch3-makey-makey-03.pptx)
 * [4.紙のギターを作ってみよう！](https://github.com/akokubo/scratch3-materials/raw/master/scratch3-makey-makey-04.pptx)
 * [5.Makey Makeyを使ってゲームをしてみよう！](https://github.com/akokubo/scratch3-materials/raw/master/scratch3-makey-makey-05.pptx)
 
